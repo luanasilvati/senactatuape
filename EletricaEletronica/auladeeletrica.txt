@@ -1,1 +1,22 @@
 Criando um diretótio no Github
+Data.: 27/04/2022
+Testando a tomada da bancada SENAC:   
+(Obs: Na escala de corrente alternada; Neutro com fase obtive : 121,1 V Neutro/Terra = 0V Terra/ Fase 120,9V)
+
+
+Testando a continuidade do cabo de força: 
+(Obs: Diodo; Neutro 0.3V/Fase0.4V/Terra 0.4V = 0.3V)
+
+Testando o cabo de força ligado na tomada: 
+(Obs: Na escala de corrente alternada obtive o resultado de 120,9 V)
+
+
+Testando a Fonte de Alimentação na Tomada:
+(Obs: Para realizar o teste de funcionamento da fonte usei um clips encaixando o no cabo verde e preto.)
+
+Testando a Corrente Contínua da Fonte:
+(Obs: 3,3V-LARANJA, 5V-VERMELHO e 12V-AMARELO)
+
+Testando a Fonte de Alimentação com Power Tester 
+(Obs: LARANJA 3,3; AMARELO 12V; VERMELHO 5V; PG: 250ms)
+ 
