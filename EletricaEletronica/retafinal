@@ -13,17 +13,33 @@ Testando a resistência do cabo na tomada
 (Obs: Neutro c/ Fase 120,6V  Neutro c/ Terra 0,5V 121,6V)
 
 Testar a Fonte de Alimentação com o Testador de Fonte
-(Obs: LARANJA 3,3; AMARELO 12V; VERMELHO 5V; PG: 310ms)
+Obs: -12V = 12,0V 
++12V2 = 12,1V
++5VSB = 4,9V
++5V = 5.0V
++12V1 = 12,1V 
++3,3V = 3.3V 
+PG: 310ms
+
+Montando o circuito na Protoboard (usando clips) 
+Obs: circuito de 12V(cabo amarelo 12V + preto 0V/COM/Terra)
+Primeira Trilha Horizontal
+
+Obs: circuito de 5V (cabo vermelho 5V + preto 0V/COM/Terra)
+Segunda Trilha Horizontal
+
+Obs: circuito de 7V (cabo amarelo 12V + vermelho 5V)
+Terceira Trilha Horizontal
 
 Montar Circuito com 02 Multímetros
-Primeiro Multímetro: Testar Tensão Elétrica (20V - CC/DC)
-Segundo Multímetro Corrente Elétrica (10A)zzz	
+Primeiro Multímetro: Testar Tensão Elétrica 11,9
+Segundo Multímetro Corrente Elétrica 0,22
 (Obs: Mudar o cabo do Multímetro para Corrente Elétrica
 
 Montar o Circuito em Paralelo dos Coolers
 NOTAR TODOS OS RESULTADOS DE TENSÃO E CORRENTE (U X I = 3,198)
 
 Montar o Circuito em paralelo dos LED´s
-Primeiro: Medir a Resistência do Resistor = 327
+Primeiro: Medir a Resistência do Resistor = 330
 Segundo: Testar o LED no Multímetro (opção LED)
 NOTAR TODOS OS RESULTADOS DE TENSÃO E CORRENTE (U X I = 4,221) 
