@@ -23,13 +23,11 @@ PG: 310ms
 
 Montando o circuito na Protoboard (usando clips) 
 Obs: circuito de 12V(cabo amarelo 12V + preto 0V/COM/Terra)
-Primeira Trilha Horizontal
 
 Obs: circuito de 5V (cabo vermelho 5V + preto 0V/COM/Terra)
-Segunda Trilha Horizontal
 
 Obs: circuito de 7V (cabo amarelo 12V + vermelho 5V)
-Terceira Trilha Horizontal
+
 
 Montar Circuito com 02 Multímetros
 Primeiro Multímetro: Testar Tensão Elétrica 11,9
