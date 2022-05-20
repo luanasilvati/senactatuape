@@ -1,7 +1,8 @@
 
 id = identificação
-$ = usario comum
-root rakear pode fazer tudo no linux
+$ é usuário comun
+# é usuário root
+root (racker) pode fazer tudo no linux
 Ctrl + L = limpar
 Crtl + Alt + T = terminal
 Crtl + D = (Exit) sair do root
