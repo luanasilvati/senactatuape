@@ -1,10 +1,10 @@
 
 id = identificação
-$ é usuário comun
-# é usuário root
-root (racker) pode fazer tudo no linux
+$ = usuário comun
+# = usuário root
+root (racker) 
 Ctrl + L = limpar
-Crtl + Alt + T = terminal
+Crtl + Alt + T = Abrir o terminal
 Crtl + D = (Exit) sair do root
 sudo apt update = atualiza as listas do apt (aplicativos)
 sudo apt upgrade = atualiza todos os software 
